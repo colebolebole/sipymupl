@@ -2,7 +2,7 @@
 How to install sipymupl (Simple Python Music Player)
 
 ---
-1. pip install the latest version of pygame (https://www.pygame.org/news)
+1. pip install the latest version of pygame (pip install pygame)
 2. git clone this repo "git clone https://github.com/colebolebole/sipymupl.git"
 3. drag sipymupl into a folder that contains music
 ---
